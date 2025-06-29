@@ -1,5 +1,4 @@
-# 📚 Meu repositório da série de cursos Praticando Python <img src="https://skillicons.dev/icons?i=python" align="center" width = 40px/>  
-
+# 📚 Meu repositório da série de cursos Praticando Python  <img src="https://github.com/RgoSL/Curso-Python-Alura/blob/main/Logo%20do%20Curso.png" alt="Praticando Python Logo" align = "center" width=50px /><br>
 Este repositório foi criado para guardar os exercícios práticos realizados por mim durante os cursos _Praticando Python_ da plataforma _Alura._
 
 ## 🛞 Navegação
@@ -15,7 +14,7 @@ Este repositório foi criado para guardar os exercícios práticos realizados po
 | Funções | [branch: curso-1](https://github.com/seu-usuario/seu-repositorio/tree/curso-1) |
 | Estruturas de Dados | [branch: curso-2](https://github.com/seu-usuario/seu-repositorio/tree/curso-2) |
 | Estruturas de Dados II | [branch: curso-3](https://github.com/seu-usuario/seu-repositorio/tree/curso-3) |
-| Estruturas de Condições | [branch: curso-4](https://github.com/seu-usuario/seu-repositorio/tree/curso-4) |
+| Estruturas de Condições | [Condicionais](https://github.com/RgoSL/Curso-Python-Alura/tree/Condicionais) |
 | Loops  | [branch: curso-5](https://github.com/seu-usuario/seu-repositorio/tree/curso-5) |
 
 ## 🎯 Objetivo
