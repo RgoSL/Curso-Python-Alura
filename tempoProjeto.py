@@ -4,11 +4,13 @@
 TempoDiagrama = int(input("De quantos dias precisamos para fazer a UML? \n"))
 TempoWireframes = int(input("De quantos dias precisamos para fazer os Wireframes? \n"))
 TempoMonografia = int(input("E para terminar a Monografia? \n"))
+# ^ Esse \n Depois do Texto Serve Para Criar um Espaçamento Entre as Linhas. Uso Para Formatar o Input
+
 
 # Variável Para Calcular a Duração Total do Projeto
 Tempo_de_Projeto = TempoDiagrama + TempoWireframes + TempoMonografia
 
-# Estrutura Condiconal
+# Estrutura Condicional
 if TempoDiagrama < 0 or TempoWireframes <0 or TempoMonografia < 0:
     print("Não é possível a duração ser negativa.")
 

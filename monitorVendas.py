@@ -3,6 +3,7 @@
 # Variáveis Para Saber a Quantidade de Frutas
 QntMaca = int(input("Quantas maçãs foram vendidas? \n"))
 QntBana = int(input("Quantas bananas foram vendidas? \n"))
+# ^ Esse \n Depois do Texto Serve Para Criar um Espaçamento Entre as Linhas. Uso Para Formatar o Input
 
 # Exibindo as Quantidades das Frutas
 print(f"Foram vendidas {QntMaca} maçãs, e {QntBana} bananas.") # F-String Para Conseguir Exibir o Texto com Variáveis.

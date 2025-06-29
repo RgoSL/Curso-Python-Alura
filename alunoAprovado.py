@@ -4,6 +4,7 @@
 Nota01 = float(input("Qual foi a 1ª menção?\n")) 
 Nota02 = float(input("Qual foi a 2ª menção?\n"))
 Nota03 = float(input("Qual foi a 3ª menção?\n"))
+# ^ Esse \n Depois do Texto Serve Para Criar um Espaçamento Entre as Linhas. Uso Para Formatar o Input
 
 # Variável que Guarda o Valor da Média
 Media = (Nota01 + Nota02 + Nota03)/3

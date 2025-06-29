@@ -3,6 +3,7 @@
 # Variáveis Utilizadas Para Capturar as Informações
 Peso = float(input("Quantos Kgs você pesa?\n"))
 Altura = float(input("Quanto de altura você tem?\n"))
+# ^ Esse \n Depois do Texto Serve Para Criar um Espaçamento Entre as Linhas. Uso Para Formatar o Input
 
 # Variável Para Exibir o Cálculo
 IMC = Peso/(Altura**2)

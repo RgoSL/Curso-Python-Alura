@@ -2,6 +2,7 @@
 
 # Variável Para Saber a Temperatura 
 TempSala = float(input("A temperatura da sala está a quantos graus? \n"))
+# ^ Esse \n Depois do Texto Serve Para Criar um Espaçamento Entre as Linhas. Uso Para Formatar o Input
 
 # Variável com Temperatura Adequada, Permitindo Flexibilidade do Programa
 TempAdequada = 25
