@@ -13,4 +13,4 @@ if TempoDiagrama < 0 or TempoWireframes <0 or TempoMonografia < 0:
     print("Não é possível a duração ser negativa.")
 
 else:
-    print(f"Vamos terminar tudo em {Tempo_de_Projeto} dias.")
+    print(f"Vamos terminar tudo em {Tempo_de_Projeto} dias.") # F-String Para Conseguir Exibir o Texto com Variáveis.
