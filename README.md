@@ -69,23 +69,30 @@ Entre 100 km e 200 km: R$ 20,00
 Acima de 200 km: R$ 30,00
 
 Crie um programa que receba a distância percorrida e informe o valor do pedágio correspondente.
-- 8️⃣ [Exercicio](https://github.com/RgoSL/Curso-Python-Alura/blob/Condicionais/.py) <!-- ⬅️ LINK PARA OS RESPECTIVOS EXERCÍCIOS -->
+- 8️⃣ [Exercicio](https://github.com/RgoSL/Curso-Python-Alura/blob/Condicionais/calculoPedagio.py) <!-- ⬅️ LINK PARA OS RESPECTIVOS EXERCÍCIOS -->
 <hr>
 
 ### Exercício 9️⃣
-Script simples para validar uma senha baseada em um arquivo externo.
-- 9️⃣ [Exercicio](https://github.com/RgoSL/Curso-Python-Alura/blob/Condicionais/.py) <!-- ⬅️ LINK PARA OS RESPECTIVOS EXERCÍCIOS -->
+Lucas está desenvolvendo um jogo e precisa de uma funcionalidade que verifique se um número é par ou ímpar. Essa verificação será usada para definir ações diferentes dentro do jogo. 
+
+Escreva um programa que receba um número inteiro e exiba uma mensagem informando se ele é par ou ímpar.
+- 9️⃣ [Exercicio](https://github.com/RgoSL/Curso-Python-Alura/blob/Condicionais/numeroPar.py) <!-- ⬅️ LINK PARA OS RESPECTIVOS EXERCÍCIOS -->
 <hr>
 
 ### Exercício 🔟 
-Script simples para validar uma senha baseada em um arquivo externo.
-- 🔟 [Exercicio](https://github.com/RgoSL/Curso-Python-Alura/blob/Condicionais/.py) <!-- ⬅️ LINK PARA OS RESPECTIVOS EXERCÍCIOS -->
+Pedro quer solicitar um empréstimo, mas a aprovação depende de duas condições:
+
+O valor da renda mensal precisa ser maior que R$ 2.000,00.
+O valor da parcela não pode ultrapassar 30% da renda.
+
+Crie um programa que receba como entrada a renda mensal de Pedro e o valor da parcela desejada. O programa deve informar se o empréstimo foi aprovado ou negado com base nas condições acima.
+- 🔟 [Exercicio](https://github.com/RgoSL/Curso-Python-Alura/blob/Condicionais/avalEmprestimo.py) <!-- ⬅️ LINK PARA OS RESPECTIVOS EXERCÍCIOS -->
 <hr>
 
 <!-- SESSÃO DE REFERÊNCIAS ⬇️ -->
 
 ### 📘 REFERÊNCIAS
 
-- 📃 [Meu Certificado](aquiVaioLink)  
-- 🎓 [Curso da Alura](aquiVaioLink)
+- 📃 [Meu Certificado](https://github.com/RgoSL/Curso-Python-Alura/blob/Condicionais/Certificado%20Curso%20Praticando%20Python%20Condicionais%20-%20Alura.pdf)  
+- 🎓 [Curso da Alura](https://www.alura.com.br/formacao-praticando-python)
   
