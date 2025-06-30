@@ -64,14 +64,14 @@ Crie um programa que utilize um laço for para exibir as seguintes mensagens:
 Para números pares, exiba: "Faltam apenas <número> segundos - Não perca essa oportunidade!".
 Para números ímpares, exiba: "A contagem continua: <número> segundos restantes.".
 Ao final da contagem, exiba a mensagem: "Aproveite a promoção agora!".
-- 8️⃣ [Exercicio](https://github.com/RgoSL/Curso-Python-Alura/blob/Laços/.py) <!-- ⬅️ LINK PARA OS RESPECTIVOS EXERCÍCIOS -->
+- 8️⃣ [Exercicio](https://github.com/RgoSL/Curso-Python-Alura/blob/Laços/contagemRegressiva.py) <!-- ⬅️ LINK PARA OS RESPECTIVOS EXERCÍCIOS -->
 <hr>
 
 ### Exercício 9️⃣
 Ana está implementando um sistema de filtragem de livros no Buscante. A funcionalidade deve percorrer uma lista de livros e exibir o nome de cada livro disponível em estoque. No entanto, se o livro estiver esgotado, ele deve ser ignorado durante a iteração.
 
 Crie um programa que ajude Ana a exibir somente os livros que possuem estoque disponível, no formato: "Livro disponível: ".
-- 9️⃣ [Exercicio](https://github.com/RgoSL/Curso-Python-Alura/blob/Laços/.py) <!-- ⬅️ LINK PARA OS RESPECTIVOS EXERCÍCIOS -->
+- 9️⃣ [Exercicio](https://github.com/RgoSL/Curso-Python-Alura/blob/Laços/filtroContinue.py) <!-- ⬅️ LINK PARA OS RESPECTIVOS EXERCÍCIOS -->
 <hr>
 
 ### Exercício 🔟 
