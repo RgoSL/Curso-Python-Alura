@@ -57,17 +57,25 @@ Crie um programa que simule as vendas de um livro com o estoque inicial de 5 exe
 <hr>
 
 ### Exercício 8️⃣ 
-Descrição/Enunciado do exercício.
+Aline está implementando uma funcionalidade que exibe mensagens personalizadas para os clientes durante uma promoção especial da sua nova loja de livros. O sistema deve exibir uma mensagem de contagem regressiva personalizada para cada número de 10 até 1, e ao final exibir a mensagem: "Aproveite a promoção agora!".
+
+Crie um programa que utilize um laço for para exibir as seguintes mensagens:
+
+Para números pares, exiba: "Faltam apenas <número> segundos - Não perca essa oportunidade!".
+Para números ímpares, exiba: "A contagem continua: <número> segundos restantes.".
+Ao final da contagem, exiba a mensagem: "Aproveite a promoção agora!".
 - 8️⃣ [Exercicio](https://github.com/RgoSL/Curso-Python-Alura/blob/Laços/.py) <!-- ⬅️ LINK PARA OS RESPECTIVOS EXERCÍCIOS -->
 <hr>
 
 ### Exercício 9️⃣
-Descrição/Enunciado do exercício.
+Ana está implementando um sistema de filtragem de livros no Buscante. A funcionalidade deve percorrer uma lista de livros e exibir o nome de cada livro disponível em estoque. No entanto, se o livro estiver esgotado, ele deve ser ignorado durante a iteração.
+
+Crie um programa que ajude Ana a exibir somente os livros que possuem estoque disponível, no formato: "Livro disponível: ".
 - 9️⃣ [Exercicio](https://github.com/RgoSL/Curso-Python-Alura/blob/Laços/.py) <!-- ⬅️ LINK PARA OS RESPECTIVOS EXERCÍCIOS -->
 <hr>
 
 ### Exercício 🔟 
-Descrição/Enunciado do exercício.
+Descrição do exercício/enunciado.
 - 🔟 [Exercicio](https://github.com/RgoSL/Curso-Python-Alura/blob/Laços/.py) <!-- ⬅️ LINK PARA OS RESPECTIVOS EXERCÍCIOS -->
 <hr>
 
