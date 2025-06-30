@@ -15,7 +15,7 @@ Este repositório foi criado para guardar os exercícios práticos realizados po
 | Estruturas de Dados | [branch: curso-2](https://github.com/seu-usuario/seu-repositorio/tree/curso-2) |
 | Estruturas de Dados II | [branch: curso-3](https://github.com/seu-usuario/seu-repositorio/tree/curso-3) |
 | Estruturas de Condições | [Condicionais](https://github.com/RgoSL/Curso-Python-Alura/tree/Condicionais) |
-| Loops  | [branch: curso-5](https://github.com/seu-usuario/seu-repositorio/tree/curso-5) |
+| Loops  | [Laços](https://github.com/RgoSL/Curso-Python-Alura/tree/Laços) |
 
 ## 🎯 Objetivo
 
