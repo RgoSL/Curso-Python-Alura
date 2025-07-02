@@ -1,0 +1,1 @@
+# Primeiro Exercício do Curso de Regex
