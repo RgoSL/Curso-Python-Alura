@@ -4,7 +4,7 @@
 import re
 
 # Variável que Recebe o Texto Original
-Texto = input("Texto a ser revisado :")
+Texto = input("Texto a ser revisado : ")
 
 # Variável que Recebe a Palavra que Desagrada o Autor(a)
 PalavraErrada = input("Qual palavra deseja substituir?")
@@ -13,7 +13,7 @@ PalavraErrada = input("Qual palavra deseja substituir?")
 NovaPalavra = input("Qual palavra deve substituir essa?")
 
 # Variável que Armazena o Texto Após os Processos de Revisão
-TextoRevisado  = ""
+TextoRevisado  = re.sub(rf'\b{PalavraErrada}\b', NovaPalavra, Texto)
 
 # Exibindo o Texto Após a Substituição ser Realizada
-print() 
+print(TextoRevisado) 
