@@ -18,7 +18,7 @@ Ajude Victor a criar um programa que receba um nome de produto e o padronize, de
 Rafaela trabalha na área de marketing e quer criar mensagens personalizadas para os clientes. Ela precisa de um programa que permita exibir saudações baseadas no nome do cliente e na cidade onde ele mora.
 
 Crie um programa que solicite o nome e a cidade de um cliente e exiba uma mensagem de boas-vindas personalizada.
-- 2️⃣ [Exercicio](https://github.com/RgoSL/Curso-Python-Alura/blob/Regex/FormatarMsg.py) <!-- ⬅️ LINK PARA OS RESPECTIVOS EXERCÍCIOS -->
+- 2️⃣ [Exercicio](https://github.com/RgoSL/Curso-Python-Alura/blob/Regex/formatarMsg.py) <!-- ⬅️ LINK PARA OS RESPECTIVOS EXERCÍCIOS -->
 <hr>
 
 ### Exercício 3️⃣
