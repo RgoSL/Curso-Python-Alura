@@ -11,11 +11,10 @@ Este repositório foi criado para guardar os exercícios práticos realizados po
 
 | Curso | Link da Branch |
 | ----- | ---------------- |
-| Funções | [branch: curso-1](https://github.com/seu-usuario/seu-repositorio/tree/curso-1) |
-| Estruturas de Dados | [branch: curso-2](https://github.com/seu-usuario/seu-repositorio/tree/curso-2) |
-| Estruturas de Dados II | [branch: curso-3](https://github.com/seu-usuario/seu-repositorio/tree/curso-3) |
-| Estruturas de Condições | [Condicionais](https://github.com/RgoSL/Curso-Python-Alura/tree/Condicionais) |
-| Loops  | [Laços](https://github.com/RgoSL/Curso-Python-Alura/tree/Laços) |
+| Estruturas de Condição | [Condicionais](https://github.com/RgoSL/Curso-Python-Alura/tree/Condicionais) |
+| Loops | [Laços](https://github.com/RgoSL/Curso-Python-Alura/tree/La%C3%A7os) |
+| Expressões Regulares | [Regex](https://github.com/RgoSL/Curso-Python-Alura/tree/Regex) |
+| Estrutura de Dados | [Tuplas](https://github.com/RgoSL/Curso-Python-Alura/tree/Tuplas) |
 
 ## 🎯 Objetivo
 
