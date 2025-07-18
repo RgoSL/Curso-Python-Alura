@@ -47,36 +47,54 @@ Com base nesse cenário, crie um programa que receba um texto com uma descriçã
 <hr>
 
 ### Exercício 6️⃣
-Nathalia é uma escritora que está revisando um texto para publicação. Durante o processo, ela percebeu que usou a palavra "bom" repetidamente, quando queria expressar algo mais forte, como "ótimo". Para economizar tempo, Nathalia quer substituir automaticamente todas as ocorrências da palavra "bom" por "ótimo" no texto.
+Nathalia é uma escritora que está revisando um texto para publicação. Durante o processo, ela percebeu que usou a palavra "bom" repetidamente, quando queria expressar algo mais forte, como "ótimo".
+
+Para economizar tempo, Nathalia quer substituir automaticamente todas as ocorrências da palavra "bom" por "ótimo" no texto.
 
 Ajude Nathalia a criar um programa que solicite um texto, a palavra que será substituída e a nova palavra. O programa deve exibir o texto com as alterações aplicadas.
 - 6️⃣ [Exercicio](https://github.com/RgoSL/Curso-Python-Alura/blob/Regex/revisarTexto.py) <!-- ⬅️ LINK PARA OS RESPECTIVOS EXERCÍCIOS -->
 <hr>
 
 ### Exercício 7️⃣
-Descrição/Enunciado da atividade.
-- 7️⃣ [Exercicio](https://github.com/RgoSL/Curso-Python-Alura/blob/Regex/.py) <!-- ⬅️ LINK PARA OS RESPECTIVOS EXERCÍCIOS -->
+Lorena trabalha no setor de cadastros de uma empresa e precisa garantir que os nomes inseridos pelos clientes estejam no formato correto. 
+
+O padrão esperado é que os nomes comecem com uma letra maiúscula e contenham apenas letras (sem números ou caracteres especiais). Para facilitar o trabalho, ela quer um programa que valide automaticamente os nomes fornecidos.
+
+Ajude a Lorena criando um programa que solicite um nome ao usuário e verifique se ele atende às regras.
+- 7️⃣ [Exercicio](https://github.com/RgoSL/Curso-Python-Alura/blob/Regex/validarNomes.py) <!-- ⬅️ LINK PARA OS RESPECTIVOS EXERCÍCIOS -->
 <hr>
 
 ### Exercício 8️⃣ 
-Descrição/Enunciado da atividade.
-- 8️⃣ [Exercicio](https://github.com/RgoSL/Curso-Python-Alura/blob/Regex/.py) <!-- ⬅️ LINK PARA OS RESPECTIVOS EXERCÍCIOS -->
+Sara trabalha no setor de atendimento de uma empresa e precisa verificar rapidamente se os clientes estão digitando seus números de CPF no formato correto antes de registrar os dados no sistema.
+
+O formato esperado do CPF é: três blocos de 3 dígitos separados por pontos (.), seguidos por um bloco de 2 dígitos separados por um traço (-).
+
+Ajude Sara a criar um programa que solicite o CPF de um cliente e verifica se ele está no formato correto.
+- 8️⃣ [Exercicio](https://github.com/RgoSL/Curso-Python-Alura/blob/Regex/formatarCPF.py) <!-- ⬅️ LINK PARA OS RESPECTIVOS EXERCÍCIOS -->
 <hr>
 
 ### Exercício 9️⃣
-Descrição/Enunciado da atividade.
-- 9️⃣ [Exercicio](https://github.com/RgoSL/Curso-Python-Alura/blob/Regex/.py) <!-- ⬅️ LINK PARA OS RESPECTIVOS EXERCÍCIOS -->
+Você trabalha em uma biblioteca e está organizando os títulos de livros no sistema. Você precisa identificar todos os títulos que possuem palavras iniciadas por uma determinada letra, para criar coleções temáticas baseadas em letras específicas.
+
+Por exemplo, você poderia usar isso para agrupar livros com palavras que começam com a mesma letra, ajudando na organização ou em campanhas como “Livros com A para você!”.
+
+Como você criaria um programa que solicita um texto e uma letra inicial e retorna todas as palavras do texto que começam com essa letra?
+- 9️⃣ [Exercicio](https://github.com/RgoSL/Curso-Python-Alura/blob/Regex/palavrasEspecificas.py) <!-- ⬅️ LINK PARA OS RESPECTIVOS EXERCÍCIOS -->
 <hr>
 
 ### Exercício 🔟 
-Descrição/Enunciado da atividade.
-- 🔟 [Exercicio](https://github.com/RgoSL/Curso-Python-Alura/blob/Regex/.py) <!-- ⬅️ LINK PARA OS RESPECTIVOS EXERCÍCIOS -->
+Carlos é analista de dados em um hospital e está organizando informações de pacientes em um banco de dados. Ele recebe os dados no formato: "PrimeiroNome Sobrenome - Ano". Por exemplo, “Monalisa Silva - 1994”.
+
+Carlos precisa de um programa que leia as informações, capture cada parte separadamente, nome, o sobrenome e o ano de nascimento para preencher os campos do sistema.
+
+Ajude Carlos criando um programa que solicite o nome completo e o ano de nascimento de um paciente e exiba-os separadamente.
+- 🔟 [Exercicio](https://github.com/RgoSL/Curso-Python-Alura/blob/Regex/agruparPacientes.py) <!-- ⬅️ LINK PARA OS RESPECTIVOS EXERCÍCIOS -->
 <hr>
 
 <!-- SESSÃO DE REFERÊNCIAS ⬇️ -->
 
 ### 📘 REFERÊNCIAS
 
-- 📃 [Meu Certificado](https://github.com/RgoSL/Curso-Python-Alura/blob/Regex/Certificado%20Curso%20Praticando%20Python%20EStrings%20e%20Regex%20-%20Alura.pdf)  
+- 📃 [Meu Certificado](https://github.com/RgoSL/Curso-Python-Alura/blob/Regex/Certificado%20Curso%20Praticando%20Python%20Regex%20-%20Alura.pdf)  
 - 🎓 [Curso da Alura](https://www.alura.com.br/formacao-praticando-python)
   
